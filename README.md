@@ -43,7 +43,7 @@
 <br />
 
 ## 📊 GITHUB STATS:
-![](https://github-readme-streak-stats.herokuapp.com/?user=shubhamdsk&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=OmkarD45&theme=dark&hide_border=false)<br/>
 
 ## 🏆 GITHUB TROPHIES
 ![](https://github-profile-trophy.vercel.app/?username=OmkarD45&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
