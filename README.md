@@ -218,7 +218,6 @@ If you find something interesting or have any questions, don't hesitate to reach
  ## 💰 You can help me by Donating
 
 <br/>
- 
-  [![BuyMeACoffee](https://img.buymeacoffee.com/button-api/?text=Buymeacoffee&emoji=&slug=shubhamdsk&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/shubhamdsk)
+  [![BuyMeACoffee](https://img.buymeacoffee.com/button-api/?text=Buymeacoffee&emoji=&slug=OmkarD45&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/shubhamdsk)
 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarD45&theme=onedark) -->
