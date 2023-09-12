@@ -52,7 +52,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 🔝 TOP CONTRIBUTED REPOSITORY 
-![](https://github-contributor-stats.vercel.app/api?username=shubhamdsk&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=OMKARD45&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 ## 🕸 *WEB DEV*
