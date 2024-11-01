@@ -1,8 +1,16 @@
-# 💫 About Me: <h1 align="center">Hi 👋🏻, I'm Omkar Deshmukh</h1><br><h3 align="center">A Passionate Programmer</h3><br><br>
+<h1 align="center"> 💫 Hi 👋🏻, I'm Omkar Deshmukh</h1> </br>
+<h2 align="center"><b>Welcome to My GitHub Profile!🚀</b></h2>
 
-*I am a self-taught Programmer from India.*
-<br/><br/>I enjoy taking up complex problems and turning them into simple and beautiful interface designs. 
-<br/><br/>I also love the logic and structure of coding and always strive to write elegant and efficient code, whether it be HTML, CSS, or JavaScript.
+Hey there! Thanks for stopping by my GitHub Profile. Here, you'll find a collection of my coding journey, projects, and collaborations. Feel free to explore, contribute, and learn together with me. Your feedback and suggestions are always appreciated. Let's keep coding and building amazing things! 👨‍💻🔥
+Happy coding and have a fantastic day!
+<hr>
+<br>
+
+![](https://komarev.com/ghpvc/?username=OmkarD45&style=for-the-badge)
+<be>
+
+<img src="https://github-readme-stats.vercel.app/api/?username=OmkarD45&show_icons=true" alt="git stats">  <br>
+
 
 
 <img src="https://github-readme-stats.vercel.app/api/?username=OmkarD45&show_icons=true" alt="git stats"> 
