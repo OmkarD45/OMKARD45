@@ -7,13 +7,9 @@ Happy coding and have a fantastic day!
 <br>
 
 ![](https://komarev.com/ghpvc/?username=OmkarD45&style=for-the-badge)
-<be>
+<br>
 
 <img src="https://github-readme-stats.vercel.app/api/?username=OmkarD45&show_icons=true" alt="git stats">  <br>
-
-
-
-<img src="https://github-readme-stats.vercel.app/api/?username=OmkarD45&show_icons=true" alt="git stats"> 
 
 ## Fun Fact 🎈:
 
@@ -28,6 +24,13 @@ Happy coding and have a fantastic day!
 
 <br />
 <br />
+
+## 📊 GITHUB STATS:
+![](https://github-readme-streak-stats.herokuapp.com/?user=OmkarD45&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarD45&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) <br>
+
+## 🏆 GITHUB TROPHIES
+![](https://github-profile-trophy.vercel.app/?username=OmkarD45&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🌏 *CONNECT WITH ME*
 <a href="https://www.instagram.com/omkar_deshmukh_45"> 
@@ -47,15 +50,6 @@ Happy coding and have a fantastic day!
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" title="HackerRank" alt="HackerRank" />
 </a>
 
-
-<br />
-
-## 📊 GITHUB STATS:
-![](https://github-readme-streak-stats.herokuapp.com/?user=OmkarD45&theme=dark&hide_border=false)<br/>
-
-## 🏆 GITHUB TROPHIES
-![](https://github-profile-trophy.vercel.app/?username=OmkarD45&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
-
 ## ✍ RANDOM DEV QUOTE
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -70,7 +64,6 @@ Happy coding and have a fantastic day!
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black "JavaScript")][repo]
 [![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white "Typescript")][repo]
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white "Bootstrap")][repo]
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white "PHP")][repo]
 <!--[![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white "Next.js")][repo] -->
 <!--[![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white "SASS")][repo]-->
 <!--[![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white "JQuery")][repo]
