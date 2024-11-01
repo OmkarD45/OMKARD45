@@ -118,7 +118,8 @@ Happy coding and have a fantastic day!
 [repo]: https://github.com/OmkarD45?tab=repositories
 
 <hr />
-## ✍ RANDOM DEV QUOTE
+
+## ✍️ RANDOM DEV QUOTE
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 🔝 TOP CONTRIBUTED REPOSITORY 
